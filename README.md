@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loicbrison&label=Profile%20views&color=0e75b6&style=flat" alt="loicbrison" /> </p>
 
+<hr>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=loicbrison&show_icons=true&locale=fr&theme=vue-dark">
