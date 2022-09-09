@@ -28,4 +28,10 @@
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loicbrison&show_icons=true&locale=en&layout=compact" alt="loicbrison" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loicbrison&show_icons=true&locale=en" alt="loicbrison" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loicbrison&" alt="loicbrison" /></p>
+
 [![Loïc BRISON's github activity graph](https://activity-graph.herokuapp.com/graph?username=loicbrison&bg_color=2a3848&color=66caa8&line=407e69&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
